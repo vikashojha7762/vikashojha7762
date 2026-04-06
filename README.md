@@ -16,81 +16,32 @@
 
 Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** passionate about building **AI-powered, real-world solutions**.
 
-💼 Currently working at **Cache Digitech**, where I develop **GenAI applications, RAG systems, and scalable AI APIs** for solving business problems.
+💼 Working at **Cache Digitech** building **GenAI + RAG systems, AI APIs, and enterprise solutions**.
 
-🎓 Completed **MCA (8.79 CGPA)** from Galgotias University and **BCA from IGNOU**, with strong foundations in software development, data engineering, and machine learning.
-
----
-
-### 🚀 What I Do
-
-* 🤖 Build **GenAI applications** using RAG, LLMs & vector databases
-* 🔍 Design **AI-driven systems** for automation & decision-making
-* ⚙️ Develop **backend APIs (FastAPI/Flask)** integrated with AI
-* 📊 Perform **data analysis & ML modeling** for business insights
+🎓 MCA (8.79 CGPA) | Galgotias University
 
 ---
 
-### 💡 Core Expertise
+# ⚡ What I Do
 
-* GenAI Systems & RAG Pipelines
-* AI + Backend Integration
-* Data Engineering & Analytics
-* Machine Learning & Predictive Modeling
+```id="flow1"
+Idea → Data → AI Model → API → Product 🚀
+```
 
----
-
-### ⚡ Superpower
-
-Turning complex business problems into **scalable AI-driven solutions 🚀**
-
----
-
-### 🔥 Currently Exploring
-
-* Multi-Agent AI Systems
-* LLM Fine-tuning (LoRA / QLoRA)
-* Production-ready AI APIs
-* Scalable AI Architectures
+* 🤖 GenAI Applications (RAG, LLMs, Agents)
+* ⚙️ AI + Backend Systems
+* 📊 Data Engineering & ML
 
 ---
 
 # ⚙️ Tech Universe
 
-### 🚀 Core Development
-
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00D9FF)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=FF6B35)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00D9FF)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### 🤖 AI / GenAI Stack
-
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge\&logo=chainlink\&logoColor=00D9FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge\&logo=openai\&logoColor=00D9FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge\&logo=huggingface\&logoColor=FF6B35)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6B35)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=00D9FF)
-
-### 📊 Data & Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge\&logo=pandas\&logoColor=00D9FF)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge\&logo=numpy\&logoColor=00D9FF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge\&logo=plotly\&logoColor=FF6B35)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge\&logo=python\&logoColor=00D9FF)
-![PowerBI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge\&logo=powerbi\&logoColor=FF6B35)
-
----
-
-### 🗄️ Data Infrastructure
-
-| Layer      | Technology         | Purpose               |
-| ---------- | ------------------ | --------------------- |
-| Relational | MySQL, PostgreSQL  | Structured Data       |
-| Document   | MongoDB            | Flexible Storage      |
-| Cache      | Redis              | Performance           |
-| Graph      | Neo4j              | Relationship Analysis |
-| Vector     | Pinecone, ChromaDB | AI Search             |
+![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge\&logo=pinecone\&logoColor=00D9FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=00D9FF)
 
 ---
 
@@ -100,55 +51,64 @@ Turning complex business problems into **scalable AI-driven solutions 🚀**
 
 > Enterprise AI system for Governance, Risk & Compliance
 
+### 🔥 Features
+
 * Semantic search over policies
 * AI-driven compliance gap detection
 * RAG-based intelligent Q&A
-* Enterprise-ready architecture
 
-**Stack:** `LangChain` `OpenAI` `Pinecone` `FastAPI` `PostgreSQL`
+### 🧩 Architecture
 
----
-
-## 🛡️ Compliance Copilot (Advanced Enterprise System)
-
-> AI-powered compliance intelligence platform for regulatory monitoring
-
-🔥 Key Highlights:
-
-* Automated **policy analysis & compliance mapping**
-* Intelligent **gap detection & risk identification**
-* Semantic search across regulatory documents
-* AI-based recommendations for compliance improvement
-
-⚙️ Tech Stack:
-`Python` `LangChain` `OpenAI` `Pinecone` `ChromaDB` `FastAPI` `PostgreSQL`
-
----
-
-# 💼 Project Portfolio
-
-| Project              | Description                  |
-| -------------------- | ---------------------------- |
-| 🤖 Resume Screening  | NLP-based hiring automation  |
-| 📉 Customer Churn    | ML prediction system         |
-| 🏏 IPL Predictor     | Match prediction system      |
-| 🛍️ Sales Analysis   | Business analytics dashboard |
-| 🚚 Supply Chain      | Logistics optimization       |
-| 🚓 Crime Analysis    | Data visualization           |
-| ❤️ Health Prediction | ML healthcare model          |
-
----
-
-# 🧩 AI Architecture Flow
-
-```id="ragflowx"
-User Query → Embedding → Vector DB → Semantic Search  
-          → Context → LLM → Response  
+```id="grcflow"
+Documents → Chunking → Embeddings  
+          → Vector DB (Pinecone/Chroma)  
+          → Semantic Search  
+          → LLM (OpenAI)  
+          → API (FastAPI) → UI  
 ```
 
 ---
 
-# 📊 GitHub Performance
+## 🛡️ Compliance Copilot (Enterprise AI Platform)
+
+> AI-powered compliance intelligence & monitoring system
+
+### 🔥 Features
+
+* Policy ingestion & classification
+* Compliance mapping
+* Risk detection
+* AI recommendations
+
+### 🧩 Architecture
+
+```id="compflow"
+Regulatory Docs → NLP Processing → Embeddings  
+               → Vector DB  
+               → Query Engine  
+               → LLM Reasoning  
+               → API Layer → Dashboard  
+```
+
+---
+
+# 💼 Other Projects
+
+```id="projflow"
+Data → Analysis → Model → Insight 📊
+```
+
+* 🤖 Resume Screening
+* 📉 Customer Churn
+* 🏏 IPL Predictor
+* 🛍️ Sales Analysis
+* 🚚 Supply Chain
+* 🚓 Crime Analysis
+* ❤️ Health Prediction
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -165,15 +125,14 @@ User Query → Embedding → Vector DB → Semantic Search
 
 # 🎯 2026 Vision
 
-* 🚀 Build enterprise GenAI platforms
-* 🤖 Develop multi-agent AI systems
-* 🧠 Master LLM fine-tuning
-* ☁️ Deploy scalable AI systems
-* 🌍 Contribute to open source
+* 🚀 Build enterprise AI products
+* 🤖 Multi-agent AI systems
+* 🧠 LLM fine-tuning
+* ☁️ Cloud AI deployment
 
 ---
 
-# 🤝 Connect
+# 🤝 Connect With Me
 
 <div align="center">
 
@@ -191,7 +150,7 @@ User Query → Embedding → Vector DB → Semantic Search
 
 <div align="center">
 
-## ⚡ "AI is not the future — it's the present."
+## ⚡ "Build AI that solves real problems."
 
 </div>
 

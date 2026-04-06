@@ -12,29 +12,48 @@
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
-Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** passionate about building **AI-powered, real-world solutions**.
+> 💡 *"Transforming data into intelligent systems that drive real-world impact."*
 
-💼 Working at **Cache Digitech** building **GenAI + RAG systems, AI APIs, and enterprise solutions**.
+Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** building **scalable AI systems and GenAI applications**.
 
+💼 Working at **Cache Digitech**
 🎓 MCA (8.79 CGPA) | Galgotias University
 
 ---
 
-# ⚡ What I Do
+## ⚡ My Workflow
 
-```id="flow1"
-Idea → Data → AI Model → API → Product 🚀
+```id="flowgraph"
+💡 Idea → 📊 Data → 🤖 Model → ⚙️ API → 🚀 Product
 ```
-
-* 🤖 GenAI Applications (RAG, LLMs, Agents)
-* ⚙️ AI + Backend Systems
-* 📊 Data Engineering & ML
 
 ---
 
-# ⚙️ Tech Universe
+## 🚀 Skill Matrix
+
+### 🤖 AI / GenAI
+
+████████████████████░░░ 90%
+
+### ⚙️ Backend Development
+
+███████████████████░░░░ 85%
+
+### 📊 Data Engineering
+
+██████████████████░░░░░ 80%
+
+### 🧠 Machine Learning
+
+█████████████████░░░░░░ 75%
+
+---
+
+## ⚙️ Tech Universe
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00D9FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00D9FF)
@@ -43,59 +62,44 @@ Idea → Data → AI Model → API → Product 🚀
 ![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge\&logo=pinecone\&logoColor=00D9FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=00D9FF)
 
+</div>
+
 ---
 
-# 🚀 Flagship Projects
+## 🚀 Flagship Projects
 
-## 🧠 GRC Compliance Copilot
+### 🧠 GRC Compliance Copilot
 
-> Enterprise AI system for Governance, Risk & Compliance
-
-### 🔥 Features
-
-* Semantic search over policies
-* AI-driven compliance gap detection
-* RAG-based intelligent Q&A
-
-### 🧩 Architecture
-
-```id="grcflow"
-Documents → Chunking → Embeddings  
-          → Vector DB (Pinecone/Chroma)  
-          → Semantic Search  
-          → LLM (OpenAI)  
-          → API (FastAPI) → UI  
+```id="grcarch"
+📄 Policies → ✂️ Chunking → 🔢 Embeddings  
+           → 🧠 Vector DB → 🔍 Semantic Search  
+           → 🤖 LLM → ⚙️ API → 💻 UI  
 ```
 
+✔ Enterprise AI Compliance System
+✔ RAG-based architecture
+✔ Policy gap detection
+
 ---
 
-## 🛡️ Compliance Copilot (Enterprise AI Platform)
+### 🛡️ Compliance Copilot
 
-> AI-powered compliance intelligence & monitoring system
-
-### 🔥 Features
-
-* Policy ingestion & classification
-* Compliance mapping
-* Risk detection
-* AI recommendations
-
-### 🧩 Architecture
-
-```id="compflow"
-Regulatory Docs → NLP Processing → Embeddings  
-               → Vector DB  
-               → Query Engine  
-               → LLM Reasoning  
-               → API Layer → Dashboard  
+```id="comparch"
+📜 Regulations → NLP → Embeddings  
+              → Vector DB → Query Engine  
+              → LLM Reasoning → API → Dashboard  
 ```
 
+✔ Compliance automation
+✔ Risk detection
+✔ AI recommendations
+
 ---
 
-# 💼 Other Projects
+## 💼 Other Projects
 
-```id="projflow"
-Data → Analysis → Model → Insight 📊
+```id="projgraph"
+📊 Data → 🧹 Cleaning → 📈 Analysis → 🤖 Model → 📊 Insight
 ```
 
 * 🤖 Resume Screening
@@ -108,7 +112,7 @@ Data → Analysis → Model → Insight 📊
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -123,16 +127,19 @@ Data → Analysis → Model → Insight 📊
 
 ---
 
-# 🎯 2026 Vision
+## 🎯 2026 Vision
 
-* 🚀 Build enterprise AI products
-* 🤖 Multi-agent AI systems
-* 🧠 LLM fine-tuning
-* ☁️ Cloud AI deployment
+```id="visiongraph"
+🚀 Build → 🤖 Scale → 🧠 Optimize → 🌍 Impact
+```
+
+* Enterprise GenAI Systems
+* Multi-Agent AI
+* Cloud AI Deployment
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Let's Connect with Me
 
 <div align="center">
 
@@ -144,13 +151,17 @@ Data → Analysis → Model → Insight 📊
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B35"/>
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D9FF"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ "Build AI that solves real problems."
+## ⚡ "AI is not the future — it's the present."
 
 </div>
 

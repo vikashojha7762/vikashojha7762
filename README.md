@@ -177,11 +177,11 @@ User Query → Embedding → Vector DB → Semantic Search
 
 <div align="center">
 
-<a href="https://linkedin.com/in/vikashojha7762">
+<a href="https://www.linkedin.com/in/vikash-kumar-ojha-539a63250/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
-<a href="mailto:vikash@email.com">
+<a href="mailto:vikashojha7762@email.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B35"/>
 </a>
 

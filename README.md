@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Building+Enterprise+AI+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Business+Impact;⚡+From+Idea+to+Production+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Building+Enterprise+AI+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Business+Impact;⚡+From+Idea+to+Production+AI" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vikashojha7762&label=PROFILE+VIEWS&color=00d9ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=vikashojha7762&label=PROFILE%20VIEWS&color=00d9ff&style=flat-square" />
 
 </div>
 
@@ -82,86 +82,61 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 ## 🚀 Flagship Projects
 
----
-
 ### 🧠 GRC Compliance Copilot
 
-> Enterprise AI system for Governance, Risk & Compliance (GRC)
+> Enterprise AI system for Governance, Risk & Compliance
 
 #### 🎯 Problem
 
-Organizations struggle to manually analyze large volumes of policies and regulatory documents, leading to compliance gaps, inefficiencies, and high risk.
+Manual analysis of policies leads to inefficiencies and compliance risks.
 
 #### 💡 Solution
 
-Developed an AI-powered **GenAI + RAG system** that automates policy understanding, semantic search, and compliance gap detection.
+Built a **GenAI + RAG system** for automated policy understanding and gap detection.
 
 #### 🔥 Key Features
 
-* 📄 Automated **policy ingestion & document parsing**
-* 🔍 **Semantic search** across compliance documents using embeddings
-* 🤖 **RAG-based Q&A system** for intelligent policy querying
-* ⚠️ **Compliance gap detection** using AI reasoning
-* 📊 Context-aware insights for decision-making
+* Policy ingestion & parsing
+* Semantic search using embeddings
+* RAG-based intelligent Q&A
+* Compliance gap detection
 
 #### 🧩 Architecture
 
-```text
+```text id="a1"
 Policies → Chunking → Embeddings → Vector DB  
         → Semantic Search → LLM → API → UI
 ```
 
-#### ⚙️ Tech Stack
-
-`Python` `LangChain` `OpenAI` `Pinecone` `ChromaDB` `FastAPI` `PostgreSQL`
-
-#### 🚀 Impact
-
-* Reduced manual compliance analysis effort
-* Improved accuracy in policy interpretation
-* Enabled faster regulatory decision-making
-
 ---
 
-### 🛡️ Compliance Copilot (Advanced AI Platform)
+### 🛡️ Compliance Copilot
 
-> AI-driven compliance intelligence & regulatory monitoring system
+> AI-powered compliance intelligence platform
 
 #### 🎯 Problem
 
-Tracking and mapping regulatory requirements manually is complex, time-consuming, and prone to human error.
+Regulatory tracking is complex and error-prone.
 
 #### 💡 Solution
 
-Built an intelligent platform that automates **compliance mapping, risk detection, and regulatory analysis** using AI.
+Developed a system for **automated compliance mapping and risk detection**.
 
 #### 🔥 Key Features
 
-* 📜 Automated **regulatory document processing**
-* 🧠 **NLP-based classification & tagging** of policies
-* 🔗 Intelligent **compliance mapping across frameworks**
-* ⚠️ AI-powered **risk identification & gap analysis**
-* 💡 Smart **recommendation engine** for compliance improvement
+* Regulatory document processing
+* NLP-based classification
+* Risk detection
+* AI recommendations
 
 #### 🧩 Architecture
 
-```text
-Regulations → NLP Processing → Embeddings → Vector DB  
-            → Query Engine → LLM Reasoning → API → Dashboard
+```text id="a2"
+Regulations → NLP → Embeddings → Vector DB  
+            → Query Engine → LLM → Dashboard
 ```
 
-#### ⚙️ Tech Stack
-
-`Python` `LangChain` `OpenAI` `Pinecone` `FastAPI` `PostgreSQL` `Redis`
-
-#### 🚀 Impact
-
-* Automated regulatory analysis workflows
-* Reduced compliance risk exposure
-* Enabled proactive compliance monitoring
-
 ---
-
 
 ## 💼 Other Projects
 
@@ -201,7 +176,6 @@ Regulations → NLP Processing → Embeddings → Vector DB
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vikash-kumar-ojha-539a63250/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 

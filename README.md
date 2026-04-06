@@ -14,34 +14,44 @@
 
 # 🧠 About Me
 
-```python
-class VikashKumarOjha:
-    def __init__(self):
-        self.role = "Software Developer | AI Engineer"
-        self.company = "Cache Digitech"
-        self.education = {
-            "MCA": "Galgotias University (8.79 CGPA)",
-            "BCA": "IGNOU (68.25%)"
-        }
-        self.location = "New Delhi, India"
-        self.specialization = [
-            "GenAI Systems",
-            "RAG Pipelines",
-            "AI + Backend Integration",
-            "Data Engineering"
-        ]
+Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** passionate about building **AI-powered, real-world solutions**.
 
-    def superpower(self):
-        return "Transforming business problems into AI-powered solutions 🚀"
+💼 Currently working at **Cache Digitech**, where I develop **GenAI applications, RAG systems, and scalable AI APIs** for solving business problems.
 
-    def current_focus(self):
-        return [
-            "Multi-Agent AI Systems",
-            "LLM Fine-tuning",
-            "Production-ready AI APIs",
-            "Scalable AI Architectures"
-        ]
-```
+🎓 Completed **MCA (8.79 CGPA)** from Galgotias University and **BCA from IGNOU**, with strong foundations in software development, data engineering, and machine learning.
+
+---
+
+### 🚀 What I Do
+
+* 🤖 Build **GenAI applications** using RAG, LLMs & vector databases
+* 🔍 Design **AI-driven systems** for automation & decision-making
+* ⚙️ Develop **backend APIs (FastAPI/Flask)** integrated with AI
+* 📊 Perform **data analysis & ML modeling** for business insights
+
+---
+
+### 💡 Core Expertise
+
+* GenAI Systems & RAG Pipelines
+* AI + Backend Integration
+* Data Engineering & Analytics
+* Machine Learning & Predictive Modeling
+
+---
+
+### ⚡ Superpower
+
+Turning complex business problems into **scalable AI-driven solutions 🚀**
+
+---
+
+### 🔥 Currently Exploring
+
+* Multi-Agent AI Systems
+* LLM Fine-tuning (LoRA / QLoRA)
+* Production-ready AI APIs
+* Scalable AI Architectures
 
 ---
 
@@ -74,55 +84,66 @@ class VikashKumarOjha:
 
 ### 🗄️ Data Infrastructure
 
-| Layer      | Technology                                                                                                                                                                                                                  | Purpose              |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| Relational | ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square\&logo=mysql\&logoColor=00D9FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square\&logo=postgresql\&logoColor=00D9FF)      | Structured Data      |
-| Document   | ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square\&logo=mongodb\&logoColor=00D9FF)                                                                                                                   | Flexible Storage     |
-| Cache      | ![Redis](https://img.shields.io/badge/Redis-0D1117?style=flat-square\&logo=redis\&logoColor=FF6B35)                                                                                                                         | Performance Boost    |
-| Graph      | ![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=flat-square\&logo=neo4j\&logoColor=00D9FF)                                                                                                                         | Relationship Mapping |
-| Vector     | ![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=flat-square\&logo=pinecone\&logoColor=00D9FF) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square\&logo=databricks\&logoColor=FF6B35) | AI Search            |
+| Layer      | Technology         | Purpose               |
+| ---------- | ------------------ | --------------------- |
+| Relational | MySQL, PostgreSQL  | Structured Data       |
+| Document   | MongoDB            | Flexible Storage      |
+| Cache      | Redis              | Performance           |
+| Graph      | Neo4j              | Relationship Analysis |
+| Vector     | Pinecone, ChromaDB | AI Search             |
 
 ---
 
-# 🚀 Flagship Project
+# 🚀 Flagship Projects
 
 ## 🧠 GRC Compliance Copilot
 
 > Enterprise AI system for Governance, Risk & Compliance
-
-🔥 Key Capabilities:
 
 * Semantic search over policies
 * AI-driven compliance gap detection
 * RAG-based intelligent Q&A
 * Enterprise-ready architecture
 
-⚙️ Stack:
-`LangChain` `OpenAI` `Pinecone` `FastAPI` `PostgreSQL`
+**Stack:** `LangChain` `OpenAI` `Pinecone` `FastAPI` `PostgreSQL`
+
+---
+
+## 🛡️ Compliance Copilot (Advanced Enterprise System)
+
+> AI-powered compliance intelligence platform for regulatory monitoring
+
+🔥 Key Highlights:
+
+* Automated **policy analysis & compliance mapping**
+* Intelligent **gap detection & risk identification**
+* Semantic search across regulatory documents
+* AI-based recommendations for compliance improvement
+
+⚙️ Tech Stack:
+`Python` `LangChain` `OpenAI` `Pinecone` `ChromaDB` `FastAPI` `PostgreSQL`
 
 ---
 
 # 💼 Project Portfolio
 
-| Project              | Description                       |
-| -------------------- | --------------------------------- |
-| 🤖 Resume Screening  | NLP-based hiring automation       |
-| 📉 Customer Churn    | ML model for retention prediction |
-| 🏏 IPL Predictor     | Real-time match prediction        |
-| 🛍️ Sales Analysis   | Business intelligence dashboard   |
-| 🚚 Supply Chain      | Logistics optimization            |
-| 🚓 Crime Analysis    | Data visualization system         |
-| ❤️ Health Prediction | ML-based disease detection        |
+| Project              | Description                  |
+| -------------------- | ---------------------------- |
+| 🤖 Resume Screening  | NLP-based hiring automation  |
+| 📉 Customer Churn    | ML prediction system         |
+| 🏏 IPL Predictor     | Match prediction system      |
+| 🛍️ Sales Analysis   | Business analytics dashboard |
+| 🚚 Supply Chain      | Logistics optimization       |
+| 🚓 Crime Analysis    | Data visualization           |
+| ❤️ Health Prediction | ML healthcare model          |
 
 ---
 
 # 🧩 AI Architecture Flow
 
-```id="3j3u6x"
-User Query → Embedding → Vector DB → Semantic Search
-          → Context Injection → LLM → Response
-
-(Backed by: PostgreSQL | Redis | MongoDB | Neo4j)
+```id="ragflowx"
+User Query → Embedding → Vector DB → Semantic Search  
+          → Context → LLM → Response  
 ```
 
 ---
@@ -144,11 +165,11 @@ User Query → Embedding → Vector DB → Semantic Search
 
 # 🎯 2026 Vision
 
-* 🚀 Build enterprise-grade GenAI platforms
-* 🤖 Develop multi-agent AI ecosystems
-* 🧠 Master LLM fine-tuning (LoRA/QLoRA)
-* ☁️ Deploy scalable AI on cloud
-* 🌍 Contribute to global open-source AI
+* 🚀 Build enterprise GenAI platforms
+* 🤖 Develop multi-agent AI systems
+* 🧠 Master LLM fine-tuning
+* ☁️ Deploy scalable AI systems
+* 🌍 Contribute to open source
 
 ---
 
@@ -162,10 +183,6 @@ User Query → Embedding → Vector DB → Semantic Search
 
 <a href="mailto:vikash@email.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B35"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D9FF"/>
 </a>
 
 </div>

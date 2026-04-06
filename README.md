@@ -14,53 +14,67 @@
 
 ## 🧠 About Me
 
-> 💡 *"Transforming data into intelligent systems that drive real-world impact."*
-
-Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** building **scalable AI systems and GenAI applications**.
+Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** building **scalable GenAI systems and intelligent applications**.
 
 💼 Working at **Cache Digitech**
 🎓 MCA (8.79 CGPA) | Galgotias University
 
 ---
 
-## ⚡ My Workflow
+## ⚡ What I Do
 
-```id="flowgraph"
-💡 Idea → 📊 Data → 🤖 Model → ⚙️ API → 🚀 Product
-```
+<div align="center">
 
----
+💡 Idea → 📊 Data → 🤖 AI → ⚙️ API → 🚀 Product
 
-## 🚀 Skill Matrix
+</div>
 
-### 🤖 AI / GenAI
-
-████████████████████░░░ 90%
-
-### ⚙️ Backend Development
-
-███████████████████░░░░ 85%
-
-### 📊 Data Engineering
-
-██████████████████░░░░░ 80%
-
-### 🧠 Machine Learning
-
-█████████████████░░░░░░ 75%
+* 🤖 GenAI (RAG, LLMs, Agents)
+* ⚙️ Backend APIs (FastAPI / Flask)
+* 📊 Data Engineering & ML
 
 ---
 
-## ⚙️ Tech Universe
+## 🛠️ Tech Stack
+
+### 🚀 Core
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge\&logo=python\&logoColor=00D9FF)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge\&logo=openjdk\&logoColor=FF6B35)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00D9FF)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge\&logo=flask\&logoColor=white)
+
+</div>
+
+---
+
+### 🤖 AI / GenAI
+
+<div align="center">
+
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge\&logo=chainlink\&logoColor=00D9FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge\&logo=openai\&logoColor=00D9FF)
-![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge\&logo=pinecone\&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge\&logo=huggingface\&logoColor=FF6B35)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6B35)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=00D9FF)
+
+</div>
+
+---
+
+### 🗄️ Databases & Infra
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00D9FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge\&logo=mongodb\&logoColor=00D9FF)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge\&logo=redis\&logoColor=FF6B35)
+![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge\&logo=neo4j\&logoColor=00D9FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge\&logo=pinecone\&logoColor=00D9FF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge\&logo=databricks\&logoColor=FF6B35)
 
 </div>
 
@@ -70,37 +84,31 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 ### 🧠 GRC Compliance Copilot
 
-```id="grcarch"
-📄 Policies → ✂️ Chunking → 🔢 Embeddings  
-           → 🧠 Vector DB → 🔍 Semantic Search  
-           → 🤖 LLM → ⚙️ API → 💻 UI  
+```text
+Policies → Chunking → Embeddings → Vector DB  
+        → Semantic Search → LLM → API → UI
 ```
 
-✔ Enterprise AI Compliance System
-✔ RAG-based architecture
-✔ Policy gap detection
+✔ Enterprise compliance AI
+✔ RAG-based system
+✔ Gap detection
 
 ---
 
 ### 🛡️ Compliance Copilot
 
-```id="comparch"
-📜 Regulations → NLP → Embeddings  
-              → Vector DB → Query Engine  
-              → LLM Reasoning → API → Dashboard  
+```text
+Regulations → NLP → Embeddings → Vector DB  
+            → Query Engine → LLM → Dashboard
 ```
 
-✔ Compliance automation
 ✔ Risk detection
 ✔ AI recommendations
+✔ Compliance automation
 
 ---
 
 ## 💼 Other Projects
-
-```id="projgraph"
-📊 Data → 🧹 Cleaning → 📈 Analysis → 🤖 Model → 📊 Insight
-```
 
 * 🤖 Resume Screening
 * 📉 Customer Churn
@@ -127,15 +135,9 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 ---
 
-## 🎯 2026 Vision
+## 🎯 Vision
 
-```id="visiongraph"
 🚀 Build → 🤖 Scale → 🧠 Optimize → 🌍 Impact
-```
-
-* Enterprise GenAI Systems
-* Multi-Agent AI
-* Cloud AI Deployment
 
 ---
 
@@ -144,15 +146,12 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vikash-kumar-ojha-539a63250/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
 <a href="mailto:vikashojha7762@email.com">
 <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6B35"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00D9FF"/>
 </a>
 
 </div>
@@ -161,7 +160,7 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 <div align="center">
 
-## ⚡ "AI is not the future — it's the present."
+### ⚡ "Build AI that solves real problems."
 
 </div>
 

@@ -4,33 +4,29 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Powered+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Insights;⚡+From+Idea+to+Production" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vikashojha7762&label=Visitors&color=00d9ff&style=flat" />
-
 </div>
 
 ---
 
 ## 🧠 About Me
 
-Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** focused on building **real-world AI systems and scalable applications**.
+Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** focused on building **enterprise-grade AI systems and intelligent applications**.
 
 💼 Working at **Cache Digitech**
 🎓 MCA (8.79 CGPA) — Galgotias University
 
 ---
 
-## ⚡ What I Do
+## ⚡ What I Build
 
 <div align="center">
 
-💡 Idea → 📊 Data → 🤖 AI → ⚙️ API → 🚀 Product
+💡 Idea → 📊 Data → 🧠 Intelligence → ⚙️ System → 🚀 Impact
 
 </div>
 
 * 🤖 GenAI Systems (RAG, LLMs, AI Agents)
-* ⚙️ Backend Development (FastAPI, Flask)
+* ⚙️ Scalable Backend APIs (FastAPI / Flask)
 * 📊 Data Engineering & Machine Learning
 
 ---
@@ -59,51 +55,109 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** fo
 
 ---
 
-## 🚀 Flagship Projects
-
-### 🧠 GRC Compliance Copilot
-
-> Enterprise AI system for Governance, Risk & Compliance
-
-🔹 Automates policy analysis and compliance tracking
-🔹 Semantic search using embeddings
-🔹 RAG-based intelligent Q&A system
-🔹 Detects compliance gaps using AI
-
-**Architecture**
-
-```text
-Policies → Chunking → Embeddings → Vector DB  
-        → Semantic Search → LLM → API → UI
-```
+# 🚀 Flagship Projects
 
 ---
 
-### 🛡️ Compliance Copilot
+## 🧠 GRC Compliance Copilot
 
-> AI-powered regulatory intelligence platform
+> Enterprise AI system for Governance, Risk & Compliance
 
-🔹 Processes regulatory documents automatically
-🔹 NLP-based classification & tagging
-🔹 Identifies risks and compliance gaps
-🔹 Provides AI-driven recommendations
+### 🎯 Vision
 
-**Architecture**
+Enable organizations to **automate compliance intelligence** and reduce manual dependency in regulatory analysis.
 
-```text
-Regulations → NLP → Embeddings → Vector DB  
-            → Query Engine → LLM → Dashboard
+### 🔥 Key Capabilities
+
+* 📄 Automated policy ingestion & structuring
+* 🔍 Semantic search using vector embeddings
+* 🤖 RAG-based AI assistant for policy Q&A
+* ⚠️ Intelligent compliance gap detection
+* 📊 Context-aware insights for decision-making
+
+### 🧩 System Flow
+
+```text id="flowA"
+📄 Policies 
+   ↓
+✂️ Chunking 
+   ↓
+🔢 Embeddings 
+   ↓
+🧠 Vector Database 
+   ↓
+🔍 Semantic Search 
+   ↓
+🤖 LLM Reasoning 
+   ↓
+⚙️ API Layer 
+   ↓
+💻 User Interface
 ```
+
+### 🚀 Impact
+
+* Reduced manual compliance effort
+* Faster regulatory analysis
+* Improved accuracy in decision-making
+
+---
+
+## 🛡️ Compliance Copilot
+
+> AI-powered compliance intelligence platform
+
+### 🎯 Vision
+
+Build a system that enables **real-time compliance monitoring and risk detection** across regulatory frameworks.
+
+### 🔥 Key Capabilities
+
+* 📜 Automated regulatory document processing
+* 🧠 NLP-based classification & tagging
+* 🔗 Intelligent compliance mapping
+* ⚠️ Risk detection & gap identification
+* 💡 AI-driven recommendations
+
+### 🧩 System Flow
+
+```text id="flowB"
+📜 Regulations 
+   ↓
+🧠 NLP Processing 
+   ↓
+🔢 Embeddings 
+   ↓
+🧠 Vector Database 
+   ↓
+🔎 Query Engine 
+   ↓
+🤖 LLM Reasoning 
+   ↓
+📊 Dashboard Output
+```
+
+### 🚀 Impact
+
+* Automated compliance workflows
+* Reduced operational risks
+* Proactive compliance management
 
 ---
 
 ## 💼 Other Projects
 
+<div align="center">
+
+📊 Data → 🧹 Processing → 🤖 Model → 📈 Insights
+
+</div>
+
 * 🤖 Resume Screening System
 * 📉 Customer Churn Prediction
 * 🏏 IPL Win Predictor
 * 🛍️ Sales Analysis
-* 🚚 Supply Chain Analysis
+* 🚚 Supply Chain Optimization
 * 🚓 Crime Rate Analysis
 * ❤️ Heart Disease Prediction
 
@@ -111,7 +165,17 @@ Regulations → NLP → Embeddings → Vector DB
 
 ## 🎯 Vision
 
-🚀 Build → 🤖 Scale → 🧠 Optimize → 🌍 Impact
+```text id="visionX"
+🚀 Build Intelligent Systems  
+🤖 Scale AI Solutions  
+🧠 Optimize Decision Making  
+🌍 Create Real-World Impact
+```
+
+* Build enterprise-level AI platforms
+* Develop scalable GenAI systems
+* Focus on real-world problem solving
+* Contribute to AI-driven innovation
 
 ---
 
@@ -120,7 +184,6 @@ Regulations → NLP → Embeddings → Vector DB
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vikash-kumar-ojha-539a63250/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 

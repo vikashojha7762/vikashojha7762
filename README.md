@@ -82,31 +82,86 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 ## 🚀 Flagship Projects
 
+---
+
 ### 🧠 GRC Compliance Copilot
+
+> Enterprise AI system for Governance, Risk & Compliance (GRC)
+
+#### 🎯 Problem
+
+Organizations struggle to manually analyze large volumes of policies and regulatory documents, leading to compliance gaps, inefficiencies, and high risk.
+
+#### 💡 Solution
+
+Developed an AI-powered **GenAI + RAG system** that automates policy understanding, semantic search, and compliance gap detection.
+
+#### 🔥 Key Features
+
+* 📄 Automated **policy ingestion & document parsing**
+* 🔍 **Semantic search** across compliance documents using embeddings
+* 🤖 **RAG-based Q&A system** for intelligent policy querying
+* ⚠️ **Compliance gap detection** using AI reasoning
+* 📊 Context-aware insights for decision-making
+
+#### 🧩 Architecture
 
 ```text
 Policies → Chunking → Embeddings → Vector DB  
         → Semantic Search → LLM → API → UI
 ```
 
-✔ Enterprise compliance AI
-✔ RAG-based system
-✔ Gap detection
+#### ⚙️ Tech Stack
+
+`Python` `LangChain` `OpenAI` `Pinecone` `ChromaDB` `FastAPI` `PostgreSQL`
+
+#### 🚀 Impact
+
+* Reduced manual compliance analysis effort
+* Improved accuracy in policy interpretation
+* Enabled faster regulatory decision-making
 
 ---
 
-### 🛡️ Compliance Copilot
+### 🛡️ Compliance Copilot (Advanced AI Platform)
+
+> AI-driven compliance intelligence & regulatory monitoring system
+
+#### 🎯 Problem
+
+Tracking and mapping regulatory requirements manually is complex, time-consuming, and prone to human error.
+
+#### 💡 Solution
+
+Built an intelligent platform that automates **compliance mapping, risk detection, and regulatory analysis** using AI.
+
+#### 🔥 Key Features
+
+* 📜 Automated **regulatory document processing**
+* 🧠 **NLP-based classification & tagging** of policies
+* 🔗 Intelligent **compliance mapping across frameworks**
+* ⚠️ AI-powered **risk identification & gap analysis**
+* 💡 Smart **recommendation engine** for compliance improvement
+
+#### 🧩 Architecture
 
 ```text
-Regulations → NLP → Embeddings → Vector DB  
-            → Query Engine → LLM → Dashboard
+Regulations → NLP Processing → Embeddings → Vector DB  
+            → Query Engine → LLM Reasoning → API → Dashboard
 ```
 
-✔ Risk detection
-✔ AI recommendations
-✔ Compliance automation
+#### ⚙️ Tech Stack
+
+`Python` `LangChain` `OpenAI` `Pinecone` `FastAPI` `PostgreSQL` `Redis`
+
+#### 🚀 Impact
+
+* Automated regulatory analysis workflows
+* Reduced compliance risk exposure
+* Enabled proactive compliance monitoring
 
 ---
+
 
 ## 💼 Other Projects
 

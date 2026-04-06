@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Powered+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Insights;⚡+From+Idea+to+Production" />
+### 🚀 Building AI Powered Systems
+
+### 🤖 GenAI | RAG | LLMs | Agents
+
+### 📊 Turning Data into Insights | ⚡ From Idea to Production
 
 </div>
 

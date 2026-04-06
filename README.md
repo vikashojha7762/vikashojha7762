@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=230&section=header&text=Vikash%20Kumar%20Ojha&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Data%20Specialist&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D9FF&height=220&section=header&text=Vikash%20Kumar%20Ojha&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20Developer%20%7C%20Data%20Specialist&descAlignY=55&descSize=18"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=🚀+Building+Enterprise+AI+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Business+Impact;⚡+From+Idea+to+Production+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=🚀+Building+AI+Powered+Systems;🤖+GenAI+%7C+RAG+%7C+LLMs+%7C+Agents;📊+Turning+Data+into+Insights;⚡+From+Idea+to+Production" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=vikashojha7762&label=PROFILE%20VIEWS&color=00d9ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=vikashojha7762&label=Visitors&color=00d9ff&style=flat" />
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ## 🧠 About Me
 
-Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** building **scalable GenAI systems and intelligent applications**.
+Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** focused on building **real-world AI systems and scalable applications**.
 
 💼 Working at **Cache Digitech**
-🎓 MCA (8.79 CGPA) | Galgotias University
+🎓 MCA (8.79 CGPA) — Galgotias University
 
 ---
 
@@ -29,15 +29,13 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 </div>
 
-* 🤖 GenAI (RAG, LLMs, Agents)
-* ⚙️ Backend APIs (FastAPI / Flask)
-* 📊 Data Engineering & ML
+* 🤖 GenAI Systems (RAG, LLMs, AI Agents)
+* ⚙️ Backend Development (FastAPI, Flask)
+* 📊 Data Engineering & Machine Learning
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 🚀 Core
 
 <div align="center">
 
@@ -46,27 +44,9 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge\&logo=fastapi\&logoColor=00D9FF)
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge\&logo=flask\&logoColor=white)
 
-</div>
-
----
-
-### 🤖 AI / GenAI
-
-<div align="center">
-
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge\&logo=chainlink\&logoColor=00D9FF)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge\&logo=openai\&logoColor=00D9FF)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge\&logo=huggingface\&logoColor=FF6B35)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge\&logo=tensorflow\&logoColor=FF6B35)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge\&logo=scikit-learn\&logoColor=00D9FF)
-
-</div>
-
----
-
-### 🗄️ Databases & Infra
-
-<div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge\&logo=mysql\&logoColor=00D9FF)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge\&logo=postgresql\&logoColor=00D9FF)
@@ -74,7 +54,6 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge\&logo=redis\&logoColor=FF6B35)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge\&logo=neo4j\&logoColor=00D9FF)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge\&logo=pinecone\&logoColor=00D9FF)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge\&logo=databricks\&logoColor=FF6B35)
 
 </div>
 
@@ -86,24 +65,14 @@ Hi 👋, I'm **Vikash Kumar Ojha** — a **Software Developer & AI Engineer** bu
 
 > Enterprise AI system for Governance, Risk & Compliance
 
-#### 🎯 Problem
+🔹 Automates policy analysis and compliance tracking
+🔹 Semantic search using embeddings
+🔹 RAG-based intelligent Q&A system
+🔹 Detects compliance gaps using AI
 
-Manual analysis of policies leads to inefficiencies and compliance risks.
+**Architecture**
 
-#### 💡 Solution
-
-Built a **GenAI + RAG system** for automated policy understanding and gap detection.
-
-#### 🔥 Key Features
-
-* Policy ingestion & parsing
-* Semantic search using embeddings
-* RAG-based intelligent Q&A
-* Compliance gap detection
-
-#### 🧩 Architecture
-
-```text id="a1"
+```text
 Policies → Chunking → Embeddings → Vector DB  
         → Semantic Search → LLM → API → UI
 ```
@@ -112,26 +81,16 @@ Policies → Chunking → Embeddings → Vector DB
 
 ### 🛡️ Compliance Copilot
 
-> AI-powered compliance intelligence platform
+> AI-powered regulatory intelligence platform
 
-#### 🎯 Problem
+🔹 Processes regulatory documents automatically
+🔹 NLP-based classification & tagging
+🔹 Identifies risks and compliance gaps
+🔹 Provides AI-driven recommendations
 
-Regulatory tracking is complex and error-prone.
+**Architecture**
 
-#### 💡 Solution
-
-Developed a system for **automated compliance mapping and risk detection**.
-
-#### 🔥 Key Features
-
-* Regulatory document processing
-* NLP-based classification
-* Risk detection
-* AI recommendations
-
-#### 🧩 Architecture
-
-```text id="a2"
+```text
 Regulations → NLP → Embeddings → Vector DB  
             → Query Engine → LLM → Dashboard
 ```
@@ -140,28 +99,13 @@ Regulations → NLP → Embeddings → Vector DB
 
 ## 💼 Other Projects
 
-* 🤖 Resume Screening
-* 📉 Customer Churn
-* 🏏 IPL Predictor
+* 🤖 Resume Screening System
+* 📉 Customer Churn Prediction
+* 🏏 IPL Win Predictor
 * 🛍️ Sales Analysis
-* 🚚 Supply Chain
-* 🚓 Crime Analysis
-* ❤️ Health Prediction
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vikashojha7762&show_icons=true&theme=tokyonight&title_color=00D9FF"/>
-<img height="160" src="https://streak-stats.demolab.com?user=vikashojha7762&theme=tokyonight&ring=00D9FF"/>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashojha7762&layout=compact&theme=tokyonight&title_color=00D9FF"/>
-
-</div>
+* 🚚 Supply Chain Analysis
+* 🚓 Crime Rate Analysis
+* ❤️ Heart Disease Prediction
 
 ---
 
@@ -176,6 +120,7 @@ Regulations → NLP → Embeddings → Vector DB
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vikash-kumar-ojha-539a63250/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
@@ -193,4 +138,4 @@ Regulations → NLP → Embeddings → Vector DB
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D1117&height=120&section=footer"/>
